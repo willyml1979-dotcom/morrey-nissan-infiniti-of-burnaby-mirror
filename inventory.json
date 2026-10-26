@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Infiniti Of Burnaby",
-  "generated_at": "2026-10-25T20:32:56",
+  "generated_at": "2026-10-26T05:26:49",
   "vehicle_count": 109,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -567,7 +567,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 30880.0,
+      "price": 30500.0,
       "price_currency": "CAD"
     },
     {
@@ -578,7 +578,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 23500.0,
+      "price": 22800.0,
       "price_currency": "CAD"
     },
     {
