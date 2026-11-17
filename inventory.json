@@ -1,7 +1,7 @@
 {
   "dealership": "Morrey Nissan Infiniti Of Burnaby",
-  "generated_at": "2026-11-17T01:27:38",
-  "vehicle_count": 134,
+  "generated_at": "2026-11-17T01:34:41",
+  "vehicle_count": 135,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -22,7 +22,7 @@
       "vin": "JN8AZ3DB9T9430055",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/36061fa978d9.html",
       "condition": "new",
-      "price": 115453.0,
+      "price": 123493.0,
       "price_currency": "CAD"
     },
     {
@@ -30,7 +30,7 @@
       "vin": "JN8AZ3DB5T9430103",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/e7c0bf897e73.html",
       "condition": "new",
-      "price": 104653.0,
+      "price": 114493.0,
       "price_currency": "CAD"
     },
     {
@@ -38,7 +38,7 @@
       "vin": "JN8AZ3DB5T9430151",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/e3801385d012.html",
       "condition": "new",
-      "price": 112243.0,
+      "price": 122743.0,
       "price_currency": "CAD"
     },
     {
@@ -78,7 +78,7 @@
       "vin": "5N1AL1FS1TC345921",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/9099101858dc.html",
       "condition": "new",
-      "price": 68393.0,
+      "price": 74893.0,
       "price_currency": "CAD"
     },
     {
@@ -86,15 +86,7 @@
       "vin": "5N1AL1HU5TC349629",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/e6db12b2e626.html",
       "condition": "new",
-      "price": 75943.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Infiniti2026 QX60 Sport",
-      "vin": "5N1AL1FS2TC349587",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/73a20aa94966.html",
-      "condition": "new",
-      "price": 67943.0,
+      "price": 82443.0,
       "price_currency": "CAD"
     },
     {
@@ -102,7 +94,7 @@
       "vin": "5N1AL1FS0TC349720",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/2b2134cfca8f.html",
       "condition": "new",
-      "price": 67943.0,
+      "price": 74443.0,
       "price_currency": "CAD"
     },
     {
@@ -110,7 +102,7 @@
       "vin": "5N1AL1HU7TC356114",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/3da584eec848.html",
       "condition": "new",
-      "price": 75943.0,
+      "price": 82443.0,
       "price_currency": "CAD"
     },
     {
@@ -118,7 +110,7 @@
       "vin": "5N1AL1HUXTC354700",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/a777b3319ce8.html",
       "condition": "new",
-      "price": 75943.0,
+      "price": 82443.0,
       "price_currency": "CAD"
     },
     {
@@ -143,14 +135,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/ef8862b60f9d.html",
       "condition": "new",
       "price": 71893.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Infiniti2027 QX60 Luxe",
-      "vin": "5N1AL1F80VC334951",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/4fd9eab18eb5.html",
-      "condition": "new",
-      "price": 71693.0,
       "price_currency": "CAD"
     },
     {
@@ -239,6 +223,30 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/9faa182abb02.html",
       "condition": "new",
       "price": 75443.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti2027 QX60 Luxe",
+      "vin": "5N1AL1F86VC345131",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/92689b4f0ce6.html",
+      "condition": "new",
+      "price": 72443.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti2027 QX60 Luxe",
+      "vin": "5N1AL1F81VC343786",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/e65d31d6109b.html",
+      "condition": "new",
+      "price": 72443.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti2027 QX65 Luxe",
+      "vin": "5N1AC0EX1VC610167",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/1a30db82dadf.html",
+      "condition": "new",
+      "price": 70693.0,
       "price_currency": "CAD"
     },
     {
