@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Infiniti Of Burnaby",
-  "generated_at": "2026-11-17T21:35:24",
+  "generated_at": "2026-11-17T21:41:35",
   "vehicle_count": 135,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -118,7 +118,7 @@
       "vin": "5N1AL1HU4TC357091",
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/18ea0d8eb392.html",
       "condition": "new",
-      "price": 76393.0,
+      "price": 82893.0,
       "price_currency": "CAD"
     },
     {
