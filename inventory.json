@@ -1,6 +1,6 @@
 {
   "dealership": "Morrey Nissan Infiniti Of Burnaby",
-  "generated_at": "2026-11-17T01:34:41",
+  "generated_at": "2026-11-17T21:35:24",
   "vehicle_count": 135,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -290,7 +290,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 16450.0,
+      "price": 14800.0,
       "price_currency": "CAD"
     },
     {
@@ -400,7 +400,7 @@
       "make": "Nissan",
       "model": "LEAF",
       "condition": "used",
-      "price": 20888.0,
+      "price": 19980.0,
       "price_currency": "CAD"
     },
     {
@@ -433,7 +433,7 @@
       "make": "Porsche",
       "model": "Macan",
       "condition": "used",
-      "price": 39980.0,
+      "price": 39500.0,
       "price_currency": "CAD"
     },
     {
@@ -456,6 +456,17 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 38800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Toyota RAV4 Prime",
+      "vin": "JTMGB3FV7ND089286",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/a60408dabebf.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 43980.0,
       "price_currency": "CAD"
     },
     {
@@ -664,7 +675,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 44980.0,
+      "price": 43980.0,
       "price_currency": "CAD"
     },
     {
@@ -752,7 +763,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 27980.0,
+      "price": 27500.0,
       "price_currency": "CAD"
     },
     {
@@ -851,7 +862,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 35980.0,
+      "price": 34980.0,
       "price_currency": "CAD"
     },
     {
@@ -863,17 +874,6 @@
       "model": "Corolla",
       "condition": "used",
       "price": 30980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan",
-      "vin": "3VV4B7AX3RM017936",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/97f648a4ea69.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 32800.0,
       "price_currency": "CAD"
     },
     {
@@ -895,7 +895,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 54980.0,
+      "price": 52980.0,
       "price_currency": "CAD"
     },
     {
@@ -906,7 +906,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 55555.0,
+      "price": 53980.0,
       "price_currency": "CAD"
     },
     {
@@ -917,7 +917,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 59980.0,
+      "price": 58800.0,
       "price_currency": "CAD"
     },
     {
@@ -1027,7 +1027,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "used",
-      "price": 39980.0,
+      "price": 42800.0,
       "price_currency": "CAD"
     },
     {
@@ -1115,7 +1115,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 65980.0,
+      "price": 64980.0,
       "price_currency": "CAD"
     },
     {
@@ -1159,7 +1159,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "used",
-      "price": 57980.0,
+      "price": 54980.0,
       "price_currency": "CAD"
     },
     {
@@ -1170,7 +1170,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 61980.0,
+      "price": 59980.0,
       "price_currency": "CAD"
     },
     {
@@ -1214,7 +1214,7 @@
       "make": "Volvo",
       "model": "XC60 Plug-In Hybrid",
       "condition": "used",
-      "price": 76980.0,
+      "price": 74980.0,
       "price_currency": "CAD"
     },
     {
@@ -1281,17 +1281,6 @@
       "model": "XC40",
       "condition": "used",
       "price": 46800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo XC40",
-      "vin": "YV4L12UM0T2683276",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/c1a5d671d710.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC40",
-      "condition": "used",
-      "price": 47980.0,
       "price_currency": "CAD"
     },
     {
@@ -1391,6 +1380,17 @@
       "model": "XC90 Plug-In Hybrid",
       "condition": "used",
       "price": 77980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volvo XC90 Plug-In Hybrid",
+      "vin": "YV4H60PF2T1507988",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/74d6628ebbbd.html",
+      "year": 2026,
+      "make": "Volvo",
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "used",
+      "price": 77777.0,
       "price_currency": "CAD"
     }
   ]
