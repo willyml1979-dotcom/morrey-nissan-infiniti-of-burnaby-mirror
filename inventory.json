@@ -1,22 +1,10 @@
 {
   "dealership": "Morrey Nissan Infiniti Of Burnaby",
-  "generated_at": "2026-11-17T21:41:35",
-  "vehicle_count": 135,
+  "generated_at": "2026-11-18T07:08:58",
+  "vehicle_count": 133,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Used Vehicles at Morrey INFINITI of Burnaby",
-      "vin": "JN8CS1MW6HM412458",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/bddc4d9766b8.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used Vehicles at Morrey INFINITI of Burnaby",
-      "vin": "JN8CS1MW6HM412458",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/5fc48c22c47c.html",
-      "condition": "used"
-    },
     {
       "name": "Infiniti2026 QX80 SPORT",
       "vin": "JN8AZ3DB9T9430055",
@@ -301,7 +289,7 @@
       "make": "Infiniti",
       "model": "QX70",
       "condition": "used",
-      "price": 24980.0,
+      "price": 24880.0,
       "price_currency": "CAD"
     },
     {
@@ -389,7 +377,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 28888.0,
+      "price": 27980.0,
       "price_currency": "CAD"
     },
     {
@@ -609,7 +597,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 43980.0,
+      "price": 43500.0,
       "price_currency": "CAD"
     },
     {
@@ -708,7 +696,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 45500.0,
+      "price": 43980.0,
       "price_currency": "CAD"
     },
     {
@@ -719,7 +707,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 23888.0,
+      "price": 21980.0,
       "price_currency": "CAD"
     },
     {
@@ -730,7 +718,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 22888.0,
+      "price": 21800.0,
       "price_currency": "CAD"
     },
     {
@@ -928,7 +916,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "used",
-      "price": 47980.0,
+      "price": 44980.0,
       "price_currency": "CAD"
     },
     {
@@ -939,7 +927,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "used",
-      "price": 44980.0,
+      "price": 43800.0,
       "price_currency": "CAD"
     },
     {
@@ -961,7 +949,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 20980.0,
+      "price": 19980.0,
       "price_currency": "CAD"
     },
     {
@@ -983,7 +971,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 27980.0,
+      "price": 27500.0,
       "price_currency": "CAD"
     },
     {
@@ -1016,7 +1004,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "used",
-      "price": 43980.0,
+      "price": 42800.0,
       "price_currency": "CAD"
     },
     {
@@ -1181,7 +1169,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "used",
-      "price": 47980.0,
+      "price": 46980.0,
       "price_currency": "CAD"
     },
     {
@@ -1192,7 +1180,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "used",
-      "price": 51500.0,
+      "price": 46980.0,
       "price_currency": "CAD"
     },
     {
@@ -1203,7 +1191,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "used",
-      "price": 51980.0,
+      "price": 46980.0,
       "price_currency": "CAD"
     },
     {
