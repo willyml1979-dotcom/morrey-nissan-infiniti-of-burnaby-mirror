@@ -7,7 +7,7 @@ Morrey Nissan Infiniti of Burnaby is a  dealership in Burnaby. This site is an A
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/ and https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/ (about 131 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/ and https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/ (about 132 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/llms.txt

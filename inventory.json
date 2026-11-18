@@ -1,7 +1,7 @@
 {
   "dealership": "Morrey Nissan Infiniti Of Burnaby",
-  "generated_at": "2026-11-18T15:37:41",
-  "vehicle_count": 131,
+  "generated_at": "2026-11-18T15:42:41",
+  "vehicle_count": 132,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -107,6 +107,14 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/18ea0d8eb392.html",
       "condition": "new",
       "price": 82893.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti2027 QX65 Sport",
+      "vin": "5N1AC0FX7VC601844",
+      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/new/d03045541f23.html",
+      "condition": "new",
+      "price": 74443.0,
       "price_currency": "CAD"
     },
     {
