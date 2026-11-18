@@ -1,7 +1,7 @@
 {
   "dealership": "Morrey Nissan Infiniti Of Burnaby",
-  "generated_at": "2026-11-18T07:13:50",
-  "vehicle_count": 132,
+  "generated_at": "2026-11-18T15:37:41",
+  "vehicle_count": 131,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -237,7 +237,7 @@
       "make": "Nissan",
       "model": "NV",
       "condition": "used",
-      "price": 18888.0,
+      "price": 18800.0,
       "price_currency": "CAD"
     },
     {
@@ -600,7 +600,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 20888.0,
+      "price": 20200.0,
       "price_currency": "CAD"
     },
     {
@@ -611,7 +611,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 22800.0,
+      "price": 21500.0,
       "price_currency": "CAD"
     },
     {
@@ -656,17 +656,6 @@
       "model": "Pathfinder",
       "condition": "used",
       "price": 43980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Murano",
-      "vin": "5N1AZ2DS5RC108476",
-      "url": "https://willyml1979-dotcom.github.io/morrey-nissan-infiniti-of-burnaby-mirror/used/fff1717d1f87.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used",
-      "price": 33980.0,
       "price_currency": "CAD"
     },
     {
@@ -721,7 +710,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 31980.0,
+      "price": 31300.0,
       "price_currency": "CAD"
     },
     {
@@ -1051,7 +1040,7 @@
       "make": "Infiniti",
       "model": "QX60",
       "condition": "used",
-      "price": 73980.0,
+      "price": 69980.0,
       "price_currency": "CAD"
     },
     {
